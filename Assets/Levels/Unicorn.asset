@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de20219b3d0e0b4e99b4c30b35e0da5, type: 3}
+  m_Name: Unicorn
+  m_EditorClassIdentifier: 
+  name: Kill me pls
+  mode: 0
+  model0: {fileID: 1672913750533896, guid: 27282beaa68431644853a5cf8563fe12, type: 2}
+  precision0: 20
+  startRotation0: {x: 0, y: 0, z: 0}
+  winRotation0: {x: 279.2, y: 61.3, z: 205.3}
+  winRotation0_1: {x: 276, y: 325.6, z: 112.1}
+  model1: {fileID: 0}
+  precision1: 0
+  startRotation1: {x: 0, y: 0, z: 0}
+  winRotation1: {x: 0, y: 0, z: 0}
+  winRotation1_1: {x: 0, y: 0, z: 0}
+  precisionAll: 0
+  winRotationAll: {x: 0, y: 0, z: 0}
+  winRotationAll_1: {x: 0, y: 0, z: 0}

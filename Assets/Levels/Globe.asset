@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de20219b3d0e0b4e99b4c30b35e0da5, type: 3}
+  m_Name: Globe
+  m_EditorClassIdentifier: 
+  name: Is it flat?
+  mode: 1
+  model0: {fileID: 1907229949258692, guid: 3b7e54b678079a74bbebea8f2035709c, type: 2}
+  precision0: 180
+  startRotation0: {x: 6.69, y: 4.94, z: -9.18}
+  winRotation0: {x: 286.2, y: 24.9, z: 158.3}
+  winRotation0_1: {x: 286.2, y: 24.9, z: 158.3}
+  model1: {fileID: 1394611340828074, guid: 9ebf9dd2091b6ed4abcf524888b64b51, type: 2}
+  precision1: 20
+  startRotation1: {x: 5.4, y: 4.5, z: 2.48}
+  winRotation1: {x: 277.7, y: 258.2, z: 93.4}
+  winRotation1_1: {x: 276.2, y: 292.5, z: 59.5}
+  precisionAll: 60
+  winRotationAll: {x: 329.4, y: 94.5, z: 316.1}
+  winRotationAll_1: {x: 88.1, y: 165.8, z: 24.8}

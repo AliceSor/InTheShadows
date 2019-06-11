@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de20219b3d0e0b4e99b4c30b35e0da5, type: 3}
+  m_Name: 42
+  m_EditorClassIdentifier: 
+  name: 21 + 21
+  mode: 1
+  model0: {fileID: 1760859400487442, guid: 156970dc8ab75904882689f4a2341bd8, type: 2}
+  precision0: 10
+  startRotation0: {x: 11.72, y: -197.5, z: 935}
+  winRotation0: {x: 359.7, y: 0.6, z: 1.5}
+  winRotation0_1: {x: 359.7, y: 0.6, z: 1.5}
+  model1: {fileID: 1314746839468514, guid: d657b5e208f299a4594e5b3b6c084f9a, type: 2}
+  precision1: 50
+  startRotation1: {x: -39.95, y: 21.55, z: -45.67}
+  winRotation1: {x: 0.9, y: 7.1, z: 358.3}
+  winRotation1_1: {x: 358.4, y: 7.3, z: 174.1}
+  precisionAll: 120
+  winRotationAll: {x: 44.1, y: 200.1, z: 140}
+  winRotationAll_1: {x: 306.1, y: 30.8, z: 292.6}

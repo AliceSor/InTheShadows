@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a02f84c09073014ab27a377343e2afa, type: 3}
+  m_Name: Sound Contoller
+  m_EditorClassIdentifier: 
+  soundVolume: 0.5
+  musicVolume: 0.5
+  ambientCollection:
+  - {fileID: 8300000, guid: 6f902c2fad080e147b2bc6ea8daa5f46, type: 3}
+  - {fileID: 8300000, guid: b003e568e4d59414198474df7a4c7ac8, type: 3}
+  - {fileID: 8300000, guid: d47a9236be50c445dae06681198c9200, type: 3}
+  uiClick: {fileID: 8300000, guid: 706514db131ca714cad0b1981ad7783f, type: 3}
+  winSound: {fileID: 8300000, guid: cf95a2bd5a55d7048b3f6360d4cd634a, type: 3}
+  goToAnotherScene: {fileID: 8300000, guid: 3b72d88195f4d864299fe91c0f9e096f, type: 3}
+  changeModel: {fileID: 8300000, guid: 9b578ecc1091b1e4fadcc96281823893, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a04a24b9a93d5a4e95a15fbc34611c7, type: 3}
+  m_Name: ProgressController
+  m_EditorClassIdentifier: 
+  filename: userRecords
+  records:
+    appSettings:
+      fullscreen: 1
+      soundVolume: 1
+      musicVolume: 1
+      sensetivity: 0
+  soundController: {fileID: 11400000, guid: d7e9a50a5598e7d439e8684d971b4f41, type: 2}
