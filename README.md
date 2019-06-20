@@ -2,6 +2,8 @@
 Educational Unity project, which aims to create a desktop copy of the game Shadowmatic
 
 ![](https://github.com/AliceSor/InTheShadows/blob/master/IntheShadows0.gif?raw=true)
+
+
 ![](https://github.com/AliceSor/InTheShadows/blob/master/IntheShadows1.gif?raw=true)
 
 #Original game
